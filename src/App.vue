@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/luminary-logo.png" height="260px" width="260px">
     <Home msg="Welcome to Luminary takehome assessment!"/>
   </div>
 </template>
